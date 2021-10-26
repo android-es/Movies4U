@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies4U</string>
+    <string name="btn_1">Most Popular</string>
+    <string name="btn_2">Playing Now</string>
+</resources>
